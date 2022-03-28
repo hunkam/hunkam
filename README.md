@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hunkam
-- 👀 I’m interested in ... air cooled porsches
+- 👀 I’m interested in ...
 - 🌱 I’m currently learning ... django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... however is easisest for you
