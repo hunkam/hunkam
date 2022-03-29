@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @hunkam
-- 👀 I’m interested in ...
+- 👋 Hi, I’m @hunkam (Hunter)
+- 👀 I’m interested in ... formula 1
 - 🌱 I’m currently learning ... django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... however is easisest for you
